@@ -68,15 +68,18 @@ div.f1{
     margin-left: 200px;
    
 }
-f3{
-    color: rgb(20, 11, 1);
-    background text-align: center;
-    font-weight: bolder;
-    nd-color: rgba(240, 248, 255, 0.471);
-    border-radius: 15px;
-    padding: 20px 0px 20px 0px;
-    margin-top: 70px;
-    margin-left: 110px;
-    margin-bottom: 70px;
-}
+.f6{
+    font-weight: bold;
+    font-size: 25px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+    }
+    .f7 a{
+        color: black;
+    }
+    .f8{
+        width: 25px;
+    }
+
 
