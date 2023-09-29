@@ -1,0 +1,31 @@
+a.one{
+    color: black;
+    font-size: 16px;
+   
+}
+.two{
+    margin-left: 400px;
+}
+.three{
+    background-image:url("images/banner-01.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+.four{
+    color: aliceblue;
+    font-size: 55px;
+    font-family: 'Fuggles', cursive;
+    text-align: center;
+    margin-top: 270px;
+    
+}
+.a1{
+    color: black;
+    font-size:50px ;
+    text-align: center;
+    font-family: 'Playfair Display', serif !important;
+}
+.a2{
+    height: 250px;
+}
