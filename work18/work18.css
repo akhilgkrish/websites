@@ -51,3 +51,22 @@ a.one{
 .b2{
     background-color: rgb(187, 214, 238);
 }
+
+.b3{
+    color: black;
+    font-size:50px ; 
+    font-family: 'Playfair Display', serif !important;
+
+}
+.b4{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(56, 55, 55);
+    border: 1px solid black;
+}
+.b5{
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-weight:100;
+    text-align: center;
+    border: 1px solid black;
+}
